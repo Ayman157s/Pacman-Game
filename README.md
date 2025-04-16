@@ -4,6 +4,7 @@ Welcome to the Pac-Man Game repository! This project is a console-based implemen
 
 ## Overview
 
+
 In this game, you control Pac-Man, navigating through a maze to collect all the dots while avoiding colored ghosts. The game features three difficulty levels, each with different enemy behavior, and allows players to view and save high scores.
 
 ## Features
